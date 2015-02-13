@@ -1,20 +1,67 @@
 Dictionary XLP
 ========
+- learning
+  - ENG: The process where new tools are introduced, new methods are practiced, and new abilities are acquired.
+  - CNS: 学习。认识新的工具、训练新的方法、获取新的能力之过程。
+  - CNT: 學習。認知新的工具、操練新的方法、習得新的能力之過程。
+  - Ref:
 - trans disciplinary
+  - Eliminate the boundary of discipline and collaborate together by people from different backgrounds.
+  - 跨学科。消弭学科界限的，融合不同学科的。
+  - 跨學科。
 - meta language
+  - 元语言
+  - 元語言
 - computation
+  - 计算
+  - 計算
+- calculation
+  - 运算
+  - 演算
 - crowd learning
+  - 众学
+  - 群體學習
 - hack
-  - hacker
-  - maker
-  - DIY
+  - 劈开、破开、破解
+  - 劈開、
+- hacker
+  - 
+  -
+- maker
+  - 
+  -
+- DIY
+  - 
+  -
 - architecture
+  - 
+  -
 - law
+  - 
+  -
 - market
-  - shadow market
+  - 
+  -
+- shadow market
+  - 
+  -
 - norm
+  - 
+  -
 - constitution
+  - 
+  -
 - operation manual
+  - 
+  -
 - digital publishing workflow
+  - 
+  -
 - knowledge asset
-- intellectual property
+  - 
+  -
+- Intellectual property
+  - 
+  -
+
+
