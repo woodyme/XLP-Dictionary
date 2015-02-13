@@ -1,67 +1,90 @@
 Dictionary XLP
 ========
-- learning
+#### [First Draft]
+
+- learning (**sample entry, further editing required**)
   - ENG: The process where new tools are introduced, new methods are practiced, and new abilities are acquired.
-  - CNS: 学习。认识新的工具、训练新的方法、获取新的能力之过程。
-  - CNT: 學習。認知新的工具、操練新的方法、習得新的能力之過程。
-  - Ref:
+  - 简体中文：学习。认识新的工具、训练新的方法、获取新的能力之过程。
+  - 繁体中文：學習。認知新的工具、操練新的方法、習得新的能力之過程。
+  - DE: Der Prozess, bei dem neue Instrumente eingeführt werden, werden neue Verfahren praktiziert wird, und neue Fähigkeiten erworben werden.
+  - FR: Le processus par lequel de nouveaux outils sont mis en place, de nouvelles méthodes sont pratiquées, et de nouvelles aptitudes sont acquises.
+  - Ref: (articles, news reports, online sources, books, etc.)
 - trans disciplinary
-  - Eliminate the boundary of discipline and collaborate together by people from different backgrounds.
-  - 跨学科。消弭学科界限的，融合不同学科的。
-  - 跨學科。
+  - ENG: Eliminate the boundary of discipline and collaborate together by people from different backgrounds.
+  - 简体中文：跨学科。消弭学科界限的，融合不同学科的。
+  - 繁體中文：跨學科。
 - meta language
-  - 元语言
-  - 元語言
+  - ENG: 
+  - 简体中文：元语言
+  - 繁體中文：元語言
 - computation
-  - 计算
-  - 計算
+  - ENG: 
+  - 简体中文：计算
+  - 繁體中文：計算
 - calculation
-  - 运算
-  - 演算
+  - ENG: 
+  - 简体中文：运算
+  - 繁體中文：演算
 - crowd learning
-  - 众学
-  - 群體學習
+  - ENG: 
+  - 简体中文：众学
+  - 繁體中文：群體學習
 - hack
-  - 劈开、破开、破解
-  - 劈開、
+  - ENG: 
+  - 简体中文：劈开、破解
+  - 繁體中文：劈開、破解
 - hacker
-  - 
-  -
+  - ENG: 
+  - 简体中文：黑客
+  - 繁體中文：駭客
 - maker
-  - 
-  -
+  - ENG: 
+  - 简体中文：创客
+  - 繁體中文：創客
 - DIY
-  - 
-  -
+  - ENG: 
+  - 简体中文：自己动手做
+  - 繁體中文：自己動手做
+  - Ref: http://zh.wikipedia.org/wiki/DIY
 - architecture
-  - 
-  -
+  - ENG: 
+  - 简体中文：架构
+  - 繁體中文：
 - law
-  - 
-  -
+  - ENG: 
+  - 简体中文：法律
+  - 繁體中文：
 - market
-  - 
-  -
+  - ENG: 
+  - 简体中文：市场
+  - 繁體中文：
 - shadow market
-  - 
-  -
+  - ENG: 
+  - 简体中文：黑市
+  - 繁體中文：
 - norm
-  - 
-  -
+  - ENG: 
+  - 简体中文：常态。惯例、社会习惯
+  - 繁體中文：
 - constitution
-  - 
-  -
+  - ENG: 
+  - 简体中文：宪法，宪章。
+  - 繁體中文：
 - operation manual
-  - 
-  -
+  - ENG: 
+  - 简体中文：操作手册，操作指南
+  - 繁體中文：
 - digital publishing workflow
-  - 
-  -
+  - ENG: 
+  - 简体中文：数字化出版发布流程
+  - 繁體中文：
 - knowledge asset
-  - 
-  -
+  - ENG: 
+  - 简体中文：知识资产
+  - 繁體中文：
 - Intellectual property
-  - 
-  -
+  - ENG: 
+  - 简体中文：知识产权，智力产权
+  - 繁體中文：
 
 
